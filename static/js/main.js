@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){var e=moment.preciseDiff("2019-05-01",moment().startOf("day")),n=moment.preciseDiff("2013-07-01","2019-04-30");document.getElementById("software-experience").innerHTML=e,document.getElementById("corporate-experience").innerHTML=n},!1);
